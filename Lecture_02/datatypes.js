@@ -7,7 +7,7 @@ const employee = {
     lastName: "Mingkhwan", 
 }; 
 function sayHello(person) { 
-    console.log("Hello" + person.firstName); 
+    console.log("Hello " + person.firstName); 
 } 
 console.log(typeof people); 
 console.log(typeof sayHello) 
