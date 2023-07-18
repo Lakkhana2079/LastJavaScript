@@ -1,7 +1,7 @@
 const names = ['Justin', 'Sarah', 'Christopher'];
 
 // while loop
-console.log('while');
+console.log('-while-');
 let index = 0;
 while (index < names.length) {
     const name = names [index];
