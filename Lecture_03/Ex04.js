@@ -1,1 +1,3 @@
-//winwin
+function numbersSum(arr){
+
+}
